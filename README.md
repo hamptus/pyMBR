@@ -9,8 +9,8 @@ https://support.microsoft.com/en-us/kb/100027
 
 for example:
 
-python mbr.py \\.\PhysicalDrive0
+`python mbr.py \\.\PhysicalDrive0`
 
 Or, for Linux:
 
-python mbr.py /dev/sda
+`python mbr.py /dev/sda`
